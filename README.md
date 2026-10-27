@@ -1,5 +1,7 @@
 # ChurnIQ — Real-Time Customer Churn & Retention Intelligence Platform
 
+**Live demo:** https://churniq-two.vercel.app
+
 > **Which customers are likely to leave, why are they likely to leave, and what should the business do about it?**
 
 ChurnIQ is a production-shaped churn intelligence platform built as a single deployable Next.js + PostgreSQL
